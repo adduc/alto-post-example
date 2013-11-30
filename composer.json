@@ -1,0 +1,14 @@
+{
+    "name": "adduc/alto-post-example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Long",
+            "email": "a@88k.us"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "altorouter/altorouter": "dev-master"
+    }
+}
